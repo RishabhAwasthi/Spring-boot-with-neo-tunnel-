@@ -1,0 +1,6 @@
+com\sap\ct\controller\BookController.class
+com\sap\ct\Application.class
+com\sap\ct\services\BookService.class
+com\sap\ct\models\Book.class
+com\sap\ct\config\CloudDatabaseConfig.class
+com\sap\ct\repository\BookRepository.class
